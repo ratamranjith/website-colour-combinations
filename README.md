@@ -2,7 +2,8 @@
 
 A responsive web application showcasing beautiful Tailwind CSS color combinations with one-click copy functionality.
 
-![Screenshot of the application](preview.png)
+![image](https://github.com/user-attachments/assets/eb373c62-1b32-470a-afc7-d3549b6ef192)
+
 
 ## Features
 
@@ -17,7 +18,7 @@ A responsive web application showcasing beautiful Tailwind CSS color combination
 
 - [Tailwind CSS](https://tailwindcss.com) - For styling and color utilities
 - [Font Awesome](https://fontawesome.com) - For GitHub icon
-- Vanilla JavaScript - For copy functionality
+- JavaScript - For copy functionality
 
 ## Installation & Usage
 
